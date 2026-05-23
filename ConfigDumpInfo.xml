@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ВыручкаМастерской" id="7bd2395b-f684-4c0b-8ad1-fbeadfd5a5ee" configVersion="8dacf9b9989a6a4ba8cc7718e077f16000000000">
+			<Metadata name="AccumulationRegister.ВыручкаМастерской.Dimension.Услуга" id="04bc17a5-21b2-4bab-a090-3e52de9d9923"/>
+			<Metadata name="AccumulationRegister.ВыручкаМастерской.Resource.Сумма" id="acd63941-accb-44f5-bf37-62719564357a"/>
+			<Metadata name="AccumulationRegister.ВыручкаМастерской.Dimension.Автомобиль" id="f235c0ab-c53c-446b-a54b-15646bd87051"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ОстаткиМатериалов" id="b7efacb5-e14f-4bb8-a383-720a0d9f82c3" configVersion="fd71eabad0fd59458c0ab5b7c11abf1000000000">
+			<Metadata name="AccumulationRegister.ОстаткиМатериалов.Dimension.Товар" id="35698ebf-4270-49b7-93e4-f866c831ac5f"/>
+			<Metadata name="AccumulationRegister.ОстаткиМатериалов.Resource.Количество" id="950885b6-7098-4029-9f93-11255670368d"/>
+		</Metadata>
+		<Metadata name="Catalog.Автомобили" id="ae814a07-0771-403b-aa25-c8b609e093a4" configVersion="87676ec2c4584545bd323b5ddd01332100000000">
+			<Metadata name="Catalog.Автомобили.Attribute.ГосНомер" id="8934c80f-ad53-41aa-b39f-22e9d05d75eb"/>
+			<Metadata name="Catalog.Автомобили.Attribute.Клиент" id="960f389c-cd02-44b0-9a05-a2857c9bf55f"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="7c0f73f0-a6eb-4122-8b32-97bcf019fd8d" configVersion="a89f68665618734381012cbc8cd4e0bd00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="a465b1f8-e906-4616-9023-01519429ddd4" configVersion="7d79cfa2d407dd4c8b4cbfb3c09311df00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЦенаЗакупки" id="54028d8e-6f5b-4002-93db-8b30126c3aba"/>
+		</Metadata>
+		<Metadata name="Catalog.Услуги" id="10e59137-21af-4347-b5ae-62562ee4aa89" configVersion="e02ae7c325c14f409d6e6bebfca9ae0100000000">
+			<Metadata name="Catalog.Услуги.Attribute.Цена" id="5ca8c730-efbe-43b9-8379-4c6e60c82f05"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="4567f3d3-1fd8-470c-ab22-2648564a5cc8" configVersion="6b1fe7759878ec418d385b02421ee72b00000000"/>
+		<Metadata name="Document.ЗаказНаряд" id="66a12f82-c159-401d-8673-40777e0f00e7" configVersion="55eb085cd7f1724ea0269ca2af0effa400000000">
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Материалы.Attribute.Товар" id="0a3dbe23-6383-4123-a8de-c864d3fc5f4c"/>
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Материалы.Attribute.Количество" id="1cc67888-119e-4ceb-a0fb-1df517fac236"/>
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Материалы" id="1fbf68f3-40a4-4600-b9e7-4c29c15587d7"/>
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги.Attribute.Услуга" id="4ae5c67a-bddc-4ee2-b52a-91276d9c4f3d"/>
+			<Metadata name="Document.ЗаказНаряд.Attribute.Автомобиль" id="574c257f-e543-4b24-84e9-9b9d955d1368"/>
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги" id="695cc9a6-7185-4aa7-b46f-1564abb2b8d2"/>
+			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги.Attribute.Стоимость" id="e63f58b3-676d-46d3-a33e-32b1bd457bb9"/>
+		</Metadata>
+		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента" id="32d6b893-6f7d-4baf-a9f9-592ed9d9eed1" configVersion="66ffcacbbe2de0449e50b88360b0af7700000000"/>
+		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента.Form" id="32d6b893-6f7d-4baf-a9f9-592ed9d9eed1.0" configVersion="2b3cac9e735edb41b70d38e4bcca7ff300000000"/>
+		<Metadata name="Document.ЗаказНаряд.ObjectModule" id="66a12f82-c159-401d-8673-40777e0f00e7.0" configVersion="bcbffd20150ff348b7cb0982051589ca00000000"/>
+		<Metadata name="Document.ПоступлениеТоваров" id="8373a6c1-0810-4208-a12d-f5a666cac894" configVersion="080c12da3a8bbe48a6313d656d0641cf00000000">
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Товар" id="3a952676-d849-403c-9fc7-01e5d126c439"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Количество" id="f883472f-49db-4416-8044-b5e834d82eca"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары" id="fe60ac40-2f02-4897-9550-1202e7d922a7"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="8373a6c1-0810-4208-a12d-f5a666cac894.0" configVersion="c80afa7503980a4eb16ca6df22e2d1c300000000"/>
+		<Metadata name="Language.Русский" id="b947140f-ab7e-491b-83f4-a5c5282ef780" configVersion="eae7264ecd8bf44f883b3364ffeeed6d00000000"/>
+		<Metadata name="Report.АнализВыручки" id="9582fcb6-9b77-4c28-9e58-be0ff9fd46e3" configVersion="9fb056327f833d42a56a9312ed150f4000000000"/>
+		<Metadata name="Report.АнализВыручки.Template.ОсновнаяСхемаКомпоновкиДанных" id="47f91d90-4b4b-485f-8d22-ab4fbddc2629" configVersion="3a41cee451861b45a6a80b8adc0f72fe00000000"/>
+		<Metadata name="Report.АнализВыручки.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="47f91d90-4b4b-485f-8d22-ab4fbddc2629.0" configVersion="7879f725c8f44447ba9f0872de14fd2400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
